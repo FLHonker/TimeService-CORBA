@@ -1,0 +1,6 @@
+//TestTimeServer.idl 
+module TestTimeServer{
+	interface ObjTimeServer{ 
+		string getTime();
+	};
+};
